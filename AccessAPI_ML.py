@@ -217,7 +217,7 @@ class AccessAPI_ML:
         
         Argumentos:
             categoria: categoria do produto
-            
+            limit: 
         Retorno:
 
         """
