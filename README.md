@@ -2,6 +2,4 @@
 
 Projeto para integração e obtenção de dados da API do Mercado Livre para 
 
-- autenticação,
-- atualização automática de token e
-- métodos para montar relatórios como anúncios criados nos últimos 30, 60 e 90 dias que estão vendendo bem e são produtos em potencial a serem trabalhados.
+Essa classe fornece uma maneira conveniente de interagir com a API do Mercado Livre e extrair informações relacionadas a vendas e produtos. Ela encapsula as chamadas de API e gerencia a autenticação e a paginação.
